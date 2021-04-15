@@ -1,0 +1,63 @@
+@model CTCMvc.Models.ClubViewModel
+@{
+    ViewData["Title"] = "Club List";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<div class="row">
+    <div class="column">
+        <div class="row">
+            <p>Current Clubs</p>
+            <ul>
+                @foreach (var c in Model.CurrentClubs)
+                {
+                    <li>@c.Club.ClubName</li>
+                }
+            </ul>
+        </div>
+        <div class="row">
+            <p>Recommended Clubs</p>
+            <ul>
+                @foreach (var r in Model.ClubRecs)
+                {
+                    <li>@r.Club.ClubName</li>
+                }
+            </ul>
+        </div>
+    </div>
+    <div class="column-right">
+        <table class="table">
+            <tr>
+                <th>Club Name</th>
+                <th>Meeting Day</th>
+                <th>RemoteLink</th>
+                <th>Meeting Time</th>
+                <th>Advisor</th>
+            </tr>
+            @foreach (var club in @Model.ClubLists)
+            {
+                <tr>
+                    <td>
+                        <a asp-controller="Club" asp-action="ClubDetail" asp-route-id="@club.ClubID">
+                        @club.ClubName</a>
+                    </td>
+                    <td>
+                        @club.MeetingDay
+                    </td>
+                    <td>
+                        @club.RemoteLink
+                    </td>
+                    <td>
+                        @club.MeetingTime
+                    </td>
+                    <td>
+                        @club.Advisor
+                    </td>
+
+                </tr>
+            }
+        </table>
+    </div>
+</div>

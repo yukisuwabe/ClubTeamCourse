@@ -1,0 +1,21 @@
+@model CTCMvc.Models.StudentViewModel 
+@{
+    ViewData["Title"] = "Student Information";
+}
+<h2>Student Information</h2>
+<div>
+    <dl class="dl-horizontal">
+        <dt>First Name</dt>
+        <dd>@Model.Students.FirstName</dd>
+        <dt>Last Name</dt>
+        <dd>@Model.Students.LastName</dd>
+        <dt>Grade</dt>
+        <dd>@Model.Students.Grade</dd>
+        <dt>Email</dt>
+        <dd>@Model.Students.Email</dd>
+        <dt>Gender</dt>
+        <dd>@Model.Students.Gender</dd>
+        <dt>Favorite Subject</dt>
+        <dd>@Model.Students.FavoriteSubject</dd>
+    </dl>
+</div>

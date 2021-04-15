@@ -1,0 +1,24 @@
+@model ClubTeamCourse.Course
+@{
+    ViewData["Title"] = "Course Detail - " + Model.CourseName; 
+}
+<h2>Course Detail</h2>
+<hr />
+<div>
+    <dl class="dl-horizontal">
+        <dt>Course Name</dt>
+        <dd>@Model.CourseName</dd>
+        <dt>Course Days</dt>
+        <dd>@Model.CourseDays</dd>
+        <dt>Requirements</dt>
+        <dd>@Model.Prerequisite</dd>
+        @if (@Model.GradeLevel != null){
+            <dt>Grade Level</dt>
+            <dd>@Model.GradeLevel.Value.ToString()</dd>
+        }
+        <dt>Description</dt>
+        <dd>@Model.Description</dd>
+        <dt>Course Subject</dt>
+        <dd>@Model.CourseSubject</dd>
+    </dl>
+</div>

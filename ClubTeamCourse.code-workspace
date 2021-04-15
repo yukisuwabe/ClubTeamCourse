@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "CTCEntities"
+		},
+		{
+			"path": "CTCContextLib"
+		},
+		{
+			"path": "CTCMvc"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,28 @@
+@model ClubTeamCourse.Team
+@{
+    ViewData["Title"] = "Team Detail - " + Model.TeamName; 
+}
+<h2>Team Detail</h2>
+<hr />
+<div>
+    <dl class="dl-horizontal">
+        <dt>Team Name</dt>
+        <dd>@Model.TeamName</dd>
+        <dt>Season</dt>
+        <dd>@Model.Season</dd>
+        <dt>Gender</dt>
+        <dd>@Model.Gender</dd>
+        <dt>Coach</dt>
+        <dd>@Model.Coach</dd>
+        <dt>Coach Email</dt>
+        <dd>@Model.CoachEmail</dd>
+        @if (@Model.TryoutDate != null){
+            <dt>Tryout Date</dt>
+            <dd>@Model.TryoutDate</dd>
+        }
+        @if (@Model.ScheduleLink != null){
+            <dt>Schedule Link</dt>
+            <dd>@Model.ScheduleLink</dd>
+        }
+    </dl>
+</div>

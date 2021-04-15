@@ -1,0 +1,79 @@
+@model ClubTeamCourse.Student
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+<div class="container">
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.StudentID, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.StudentID, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.StudentID, null, new { @class= "text-danger"})
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.FirstName, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.FirstName, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.FirstName, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.LastName, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.LastName, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.LastName, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.Grade, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.Grade, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.Grade, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.Email, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.Email, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.Password, new { @class = "control-label" })
+            @Html.PasswordFor( model => model.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.Password, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.Gender, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.Gender, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.Gender, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.FavoriteSubject, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.FavoriteSubject, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.FavoriteSubject, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor( model => model.ProfilePic, new { @class = "control-label" })
+            @Html.TextBoxFor( model => model.ProfilePic, new { @class = "form-control" })
+            @Html.ValidationMessageFor( model => model.ProfilePic, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <input type="submit" value="Save" name="save" class="btn btn-primary"/>
+        </div>
+    </div>
+</div>
+}
