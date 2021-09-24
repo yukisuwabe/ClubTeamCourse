@@ -1,0 +1,12 @@
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp5.0\CTCEntities.deps.json
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp5.0\CTCEntities.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp5.0\ref\CTCEntities.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp5.0\CTCEntities.pdb
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.csproj.AssemblyReference.cache
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.AssemblyInfoInputs.cache
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.AssemblyInfo.cs
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.csproj.CoreCompileInputs.cache
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\ref\CTCEntities.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp5.0\CTCEntities.pdb

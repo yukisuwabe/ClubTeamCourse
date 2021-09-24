@@ -1,9 +1,9 @@
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp3.1\CTCEntities.deps.json
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp3.1\CTCEntities.dll
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\bin\Debug\netcoreapp3.1\CTCEntities.pdb
-C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.csprojAssemblyReference.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.AssemblyInfoInputs.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.AssemblyInfo.cs
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.csproj.CoreCompileInputs.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.dll
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.pdb
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCEntities\obj\Debug\netcoreapp3.1\CTCEntities.csproj.AssemblyReference.cache

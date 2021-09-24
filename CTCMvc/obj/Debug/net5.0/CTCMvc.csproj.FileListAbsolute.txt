@@ -1,4 +1,3 @@
-C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\CTCMvc.csprojAssemblyReference.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\CTCMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\CTCMvc.AssemblyInfoInputs.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\CTCMvc.AssemblyInfo.cs
@@ -92,3 +91,4 @@ C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\ne
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\Razor\Views\Team\Index.cshtml.g.cs
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\Razor\Views\Team\TeamDetail.cshtml.g.cs
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\CTCMvc.csproj.AssemblyReference.cache

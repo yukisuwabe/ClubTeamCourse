@@ -1,4 +1,3 @@
-C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.csprojAssemblyReference.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.AssemblyInfoInputs.cache
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.AssemblyInfo.cs
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.csproj.CoreCompileInputs.cache
@@ -10,3 +9,4 @@ C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\bin\D
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.csproj.CopyComplete
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.dll
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.pdb
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCContextLib\obj\Debug\netcoreapp3.1\CTCContextLib.csproj.AssemblyReference.cache
