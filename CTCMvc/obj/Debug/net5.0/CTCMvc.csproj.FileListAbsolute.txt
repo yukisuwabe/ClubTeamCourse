@@ -92,3 +92,9 @@ C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\ne
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\Razor\Views\Team\Index.cshtml.g.cs
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\Razor\Views\Team\TeamDetail.cshtml.g.cs
 C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\obj\Debug\net5.0\CTCMvc.csproj.AssemblyReference.cache
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yukis\OneDrive\Documents\AppDev\Code\ClubTeamCourse\CTCMvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
